@@ -1,0 +1,5 @@
+{
+  "name": "MediExplain",
+  "description": "Understand your medical data in simple language. Upload prescriptions, lab reports, or search for medical terms. Our AI securely analyzes and explains everything without medical jargon.",
+  "requestFramePermissions": []
+}
